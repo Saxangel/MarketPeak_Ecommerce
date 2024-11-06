@@ -133,7 +133,7 @@ button::-moz-focus-inner {
   text-align: center;
   opacity: 0.65;
   padding: 0 0 18px 10px;
-  color: #FFF;
+  color: #ffffff;
   font-style: normal;
   font-size: 28px;
   font-family: Arial, Baskerville, monospace; }
@@ -158,7 +158,7 @@ button::-moz-focus-inner {
   position: absolute;
   top: 0;
   right: 0;
-  color: #CCC;
+  color: #cccccc;
   font-size: 12px;
   line-height: 18px;
   white-space: nowrap; }
@@ -202,7 +202,7 @@ button::-moz-focus-inner {
 .mfp-arrow-left {
   left: 0; }
   .mfp-arrow-left:after {
-    border-right: 17px solid #FFF;
+    border-right: 17px solid #ffffff;
     margin-left: 31px; }
   .mfp-arrow-left:before {
     margin-left: 25px;
@@ -214,7 +214,7 @@ button::-moz-focus-inner {
     border-left: 17px solid #FFF;
     margin-left: 39px; }
   .mfp-arrow-right:before {
-    border-left: 27px solid #3F3F3F; }
+    border-left: 27px solid #3f3f3f; }
 
 .mfp-iframe-holder {
   padding-top: 40px;
