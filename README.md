@@ -234,7 +234,7 @@ git push origin development
 #### 3.1 Create a Pull Request (PR): 
 On GitHub, I created a pull request to merge the development branch into the main branch. This process is crucial for code review and maintaining code quality.
 
-
+![alt text](<Images/Colour change.png>)
 
 
 ### 3.2 Review and Merge the PR: 
@@ -297,5 +297,9 @@ I tested the new feature by opening a web browser and navigated to the public IP
 This workflow shows the best practices in software development and deployment, including branch management, code review through pull requests, and continuous integration/deployment strategies. By following these steps, you can maintain a stable and up-to-date production environment for your e-commerce platform.
 
 
-### 4.1. Challenges:
+### 6. Challenges:
 I encountered series of challenges during this projects
+
+- Some of the challenges i faced include not knowing which platform is best to choose for the coding. So, i was juggling between VScode, CMD and EC2 instance (Linux server)
+
+- I had to go through my book in order to remeber some commands and also seek help from my mentors to complete all the task.
